@@ -1,0 +1,8 @@
+{
+  "url": "http://class.xjtu.edu.cn/api/course/{}/coursewares?conditions=%7B%22category%22:%22lesson%22,%22itemsSortBy%22:%7B%22predicate%22:%22chapter%22,%22reverse%22:false%7D%7D&page=1&page_size={}",
+  "cookie": "",
+  "course_id": "",
+  "page_size": "64",
+  "activity_url": "http://class.xjtu.edu.cn/api/activities/{}",
+  "download_path": ""
+}
